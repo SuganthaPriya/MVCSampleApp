@@ -1,0 +1,228 @@
+﻿@model Models.tblTrainerDetail
+@{
+    ViewBag.Title = "Trainer Profile Projection";
+}
+
+<link href="~/Content/themes/base/jquery-ui.min.css" rel="stylesheet" />
+<script src="~/Scripts/jquery-1.12.4.min.js"></script>
+<script src="~/Scripts/jquery-ui-1.12.1.min.js"></script>
+<div>
+    @Html.ActionLink("Check Available Trainers", "Index", "Home",null, new { @id = "ShowDate" })<br />
+
+    @Html.ActionLink("Project Trainer's Profile", "GetAvailableTrainers", "Home", null, new { @id = "ShowTrainer" })
+</div>
+
+<div id="date" style="display:none">
+    Enter Start Date(dd/mm/yyyy):@Html.TextBox("StartDate", null, new { @id = "StartDate" })
+    Enter End Date(dd/mm/yyyy):@Html.TextBox("EndDate", null, new { @id = "EndDate" })
+    <input type="submit" id="btnSearch" value="Search" style="color: white; background-color: rgb(153, 255, 51);" />
+</div>
+
+<div id="trainers"></div>
+
+<div id="projecttrainers" style="display:none">
+    <table border="1" style="width:50%">
+        <tr style="background-color: rgb(204, 204, 204);">
+            <th colspan="2">Project Trainer's Profile</th>
+        </tr>
+        <tr>
+            <td style="font-weight:bolder">Enter Vendor Id:</td>
+            <td>@Html.TextBoxFor(m => m.VendorId, new { @class = "digit" })
+                <span id="errormsg" style="color:red;"></span>
+            </td>
+        </tr>
+        <tr>
+            <td style="font-weight:bolder">Enter Trainer's Id:</td>
+            <td>
+                @Html.DropDownList("TrainerId", (IEnumerable<SelectListItem>)ViewBag.TrainerId,
+            new { @id = "ddlTrainer", @style = "width: 153px;" })
+        </td>
+            @*<td>
+                @Html.DropDownListFor(m => m.TrainerId, new SelectList(Enumerable.Empty<SelectListItem>(), 
+               "TrainerId", "TrainerId"), new { @id = "ddlTrainer" })
+            </td>*@
+    </tr>
+    <tr>
+        <td style="font-weight:bolder">Enter Start Date:</td>
+        <td>@Html.TextBox("StartDate", null, new { id = "StartDate1" })</td>
+    </tr>
+    <tr>
+        <td style="font-weight:bolder">Enter End Date:</td>
+        <td>@Html.TextBox("EndDate", null, new { id = "EndDate1" })</td>
+    </tr>
+    <tr>
+        <td>
+            <input type="submit" id="btnSubmit" value="SUBMIT" />
+        </td>
+        <td></td>
+    </tr>
+    <tr>
+        <td id="message" style="background-color:rgb(153, 0, 51); color:white; font-weight: bold;"></td>
+    </tr>
+</table>
+</div>
+
+<script type="text/javascript">
+    $(function () {
+
+        $("#ShowDate").click(function (e) {
+            e.preventDefault();
+            $("#date").show();
+            $("#projecttrainers").hide();
+        });
+
+    });
+
+    $(function () {
+        $("#ShowTrainer").click(function (e) {
+            e.preventDefault();
+            $("#projecttrainers").show();
+            $("#date").hide();
+            $("#trainers").hide();
+        });
+    });
+
+   $(function () {
+        $("#btnSearch").click(function () {
+            if ($("#StartDate").val() == "" && $("#EndDate").val() == "") {
+                alert("Please Select Start Date & End Date");
+            }
+            else if ($("#StartDate").val() == "") {
+                alert("Please Select Start Date");
+            }
+            else if ($("#EndDate").val() == "") {
+                alert("Please Select End Date");
+            }
+            else {
+                $("#trainers").show();
+                $.ajax({
+                    type: "POST",
+                    url: '@Url.Action("GetAllTrainers", "Home")',                   
+                    success: function (data) {
+                        $("#trainers").html(data);
+                    }
+                });
+            }
+        });
+    });
+    
+
+
+    $(function () {
+        $(".btnStatus").click(function () {
+            //debugger
+            var trainerId = $(this).closest("tr").find("td").text();
+            var startDate = $('#StartDate').val();
+            var endDate = $('#EndDate').val();
+
+            $.ajax({
+                type: "POST",
+                url: '@Url.Action("GetTrainers", "Home")',
+                data: { TrainerId: trainerId, StartDate: startDate, EndDate: endDate },
+                //contentType: "application/json",
+                //dataType: "json",
+                success: function (data) {
+                    //$("#trainers").html(data);
+                    $("#message").text("Trainer's Profile is projected, Thank you!");
+                }
+            });
+        });
+    });
+
+    $(function () {
+        $("#btnSubmit").click(function () {
+            if ($("#StartDate1").val() == "" && $("#EndDate1").val() == "") {
+                alert("Please Select Start Date & End Date");
+            }
+            else if ($("#StartDate1").val() == "") {
+                alert("Please Select Start Date");
+            }
+            else if ($("#EndDate1").val() == "") {
+                alert("Please Select End Date");
+            }
+            else {
+                var vendorId = $('#VendorId').val();
+                var trainerId = $('#ddlTrainer option:selected').text();
+                //var startDate = $('#StartDate1').val();
+                //var endDate = $('#EndDate1').val();
+                var startDt = $('#StartDate1').val();
+                var dtArray1 = startDt.split("/");
+                var startDate = dtArray1[1] + '/' + dtArray1[0] + '/' + dtArray1[2];
+                var endDt = $('#EndDate1').val();
+                var dtArray2 = endDt.split("/");
+                var endDate = dtArray2[1] + '/' + dtArray2[0] + '/' + dtArray2[2];
+
+                $.ajax({
+                    type: "POST",
+                    url: '@Url.Action("ProjectTrainers", "Home")',
+                    data: { VendorId: vendorId, TrainerId: trainerId, StartDate: startDate, EndDate: endDate },
+                    //contentType: "application/json",
+                    //dataType: "json",
+                    success: function (data) {
+                        $("#message").text("Trainer's Profile is projected, Thank you!");
+                    }
+                });
+            }
+        });
+    });
+
+    $(document).ready(function () {
+
+        $("#StartDate").datepicker({
+            //numberOfMonths: 2,
+            dateFormat: 'dd/mm/yy',
+            //onSelect: function (selected) {
+            //    var dt = new Date(selected);
+            //    dt.setDate(dt.getDate() + 1);
+            //    $("#EndDate").datepicker("option", "minDate", dt);
+            //}
+            onSelect: function (selected) {
+                $("#EndDate").datepicker("option", "minDate", selected)
+            }
+        });
+        $("#EndDate").datepicker({
+            //numberOfMonths: 2,
+            dateFormat: 'dd/mm/yy',
+            //onSelect: function (selected) {
+            //    var dt = new Date(selected);
+            //    dt.setDate(dt.getDate() - 1);
+            //    $("#StartDate").datepicker("option", "maxDate", dt);
+            //}
+            onSelect: function (selected) {
+                $("#StartDate").datepicker("option", "maxDate", selected)
+            }
+        });
+        $("#StartDate1").datepicker({
+            //numberOfMonths: 2,
+            dateFormat: 'dd/mm/yy',
+            //onSelect: function (selected) {
+            //    var dt = new Date(selected);
+            //    dt.setDate(dt.getDate() + 1);
+            //    $("#EndDate1").datepicker("option", "minDate", dt);
+            //}
+            onSelect: function (selected) {
+                $("#EndDate1").datepicker("option", "minDate", selected)
+            }
+        });
+        $("#EndDate1").datepicker({
+            //numberOfMonths: 2,
+            dateFormat: 'dd/mm/yy',
+            //onSelect: function (selected) {
+            //    var dt = new Date(selected);
+            //    dt.setDate(dt.getDate() - 1);
+            //    $("#StartDate1").datepicker("option", "maxDate", dt);
+            //}
+            onSelect: function (selected) {
+                $("#StartDate1").datepicker("option", "maxDate", selected)
+            }
+        });
+
+        $(".digit").keypress(function (e) {
+            if (e.which != 8 && e.which != 0 && (e.which < 48 || e.which > 57)) {
+                $("#errormsg").html("Enter Numeric Value").show().fadeOut(3000);
+                return false;
+            }
+        });
+    });
+
+</script>

@@ -1,0 +1,237 @@
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\ApplicationInsights.config
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\csc.exe
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\csc.exe.config
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\csc.rsp
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\csi.exe
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\csi.rsp
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\System.AppContext.dll
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\System.Collections.Immutable.dll
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\System.IO.FileSystem.dll
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\System.Reflection.Metadata.dll
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\vbc.exe
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\vbc.exe.config
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\vbc.rsp
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\VBCSCompiler.exe
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\VBCSCompiler.exe.config
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\Trainer Profile Projection.dll.config
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\Trainer Profile Projection.dll
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\Trainer Profile Projection.pdb
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\Antlr3.Runtime.dll
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\BusinessLayer.dll
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\EntityFramework.dll
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\EntityFramework.SqlServer.dll
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\Microsoft.AI.Agent.Intercept.dll
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\Microsoft.AI.DependencyCollector.dll
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\Microsoft.AI.Web.dll
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\Microsoft.AI.WindowsServer.dll
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\Microsoft.ApplicationInsights.dll
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\Microsoft.Web.Infrastructure.dll
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\Models.dll
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\Newtonsoft.Json.dll
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\System.Web.Helpers.dll
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\System.Web.Mvc.dll
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\System.Web.Optimization.dll
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\System.Web.Razor.dll
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\System.Web.WebPages.Deployment.dll
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\System.Web.WebPages.dll
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\System.Web.WebPages.Razor.dll
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\WebGrease.dll
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\DataAccessLayer.dll
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\BusinessLayer.pdb
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\Models.pdb
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\Models.dll.config
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\EntityFramework.xml
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\EntityFramework.SqlServer.xml
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\System.Web.Helpers.xml
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\System.Web.Mvc.xml
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\System.Web.Optimization.xml
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\System.Web.Razor.xml
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\System.Web.WebPages.xml
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\System.Web.WebPages.Deployment.xml
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\System.Web.WebPages.Razor.xml
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\Antlr3.Runtime.pdb
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\Newtonsoft.Json.xml
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\Microsoft.ApplicationInsights.xml
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\Microsoft.AI.DependencyCollector.xml
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\Microsoft.AI.WindowsServer.xml
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\Microsoft.AI.Web.xml
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\DataAccessLayer.pdb
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\bin\DataAccessLayer.dll.config
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\obj\Debug\Trainer Profile Projection.csprojResolveAssemblyReference.cache
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\obj\Debug\Trainer Profile Projection.dll
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Trainer Profile Projection\obj\Debug\Trainer Profile Projection.pdb
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\ApplicationInsights.config
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\csc.exe
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\csc.exe.config
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\csc.rsp
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\csi.exe
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\csi.rsp
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\System.AppContext.dll
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\System.Collections.Immutable.dll
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\System.IO.FileSystem.dll
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\System.Reflection.Metadata.dll
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\vbc.exe
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\vbc.exe.config
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\vbc.rsp
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\VBCSCompiler.exe
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\VBCSCompiler.exe.config
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\Trainer Profile Projection.dll.config
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\Trainer Profile Projection.dll
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\Trainer Profile Projection.pdb
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\Antlr3.Runtime.dll
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\BusinessLayer.dll
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\EntityFramework.dll
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\EntityFramework.SqlServer.dll
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\Microsoft.AI.DependencyCollector.dll
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\Microsoft.AI.Web.dll
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\Microsoft.AI.WindowsServer.dll
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\Microsoft.ApplicationInsights.dll
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\Microsoft.Web.Infrastructure.dll
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\Models.dll
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\Newtonsoft.Json.dll
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\System.Web.Helpers.dll
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\System.Web.Mvc.dll
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\System.Web.Optimization.dll
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\System.Web.Razor.dll
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\System.Web.WebPages.Deployment.dll
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\System.Web.WebPages.dll
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\System.Web.WebPages.Razor.dll
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\WebGrease.dll
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\DataAccessLayer.dll
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\BusinessLayer.pdb
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\Models.pdb
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\Models.dll.config
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\EntityFramework.xml
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\EntityFramework.SqlServer.xml
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\System.Web.Helpers.xml
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\System.Web.Mvc.xml
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\System.Web.Optimization.xml
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\System.Web.Razor.xml
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\System.Web.WebPages.xml
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\System.Web.WebPages.Deployment.xml
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\System.Web.WebPages.Razor.xml
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\Antlr3.Runtime.pdb
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\Newtonsoft.Json.xml
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\Microsoft.ApplicationInsights.xml
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\Microsoft.AI.DependencyCollector.xml
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\Microsoft.AI.WindowsServer.xml
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\Microsoft.AI.Web.xml
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\DataAccessLayer.pdb
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\bin\DataAccessLayer.dll.config
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\obj\Debug\Trainer Profile Projection.csprojResolveAssemblyReference.cache
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\obj\Debug\Trainer Profile Projection.dll
+D:\Assignments\Trainer Profile Projection\Trainer Profile Projection\obj\Debug\Trainer Profile Projection.pdb
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\ApplicationInsights.config
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\csc.exe
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\csc.exe.config
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\csc.rsp
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\csi.exe
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\csi.rsp
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\System.AppContext.dll
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\System.Collections.Immutable.dll
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\System.IO.FileSystem.dll
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\System.Reflection.Metadata.dll
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\vbc.exe
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\vbc.exe.config
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\vbc.rsp
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\VBCSCompiler.exe
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\roslyn\VBCSCompiler.exe.config
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\Trainer Profile Projection.dll.config
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\Trainer Profile Projection.dll
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\Trainer Profile Projection.pdb
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\Antlr3.Runtime.dll
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\BusinessLayer.dll
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\EntityFramework.dll
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\EntityFramework.SqlServer.dll
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\Microsoft.AI.DependencyCollector.dll
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\Microsoft.AI.Web.dll
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\Microsoft.AI.WindowsServer.dll
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\Microsoft.ApplicationInsights.dll
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\Microsoft.Web.Infrastructure.dll
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\Models.dll
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\Newtonsoft.Json.dll
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\System.Web.Helpers.dll
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\System.Web.Mvc.dll
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\System.Web.Optimization.dll
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\System.Web.Razor.dll
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\System.Web.WebPages.Deployment.dll
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\System.Web.WebPages.dll
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\System.Web.WebPages.Razor.dll
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\WebGrease.dll
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\DataAccessLayer.dll
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\BusinessLayer.pdb
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\Models.pdb
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\Models.dll.config
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\EntityFramework.xml
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\EntityFramework.SqlServer.xml
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\System.Web.Helpers.xml
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\System.Web.Mvc.xml
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\System.Web.Optimization.xml
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\System.Web.Razor.xml
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\System.Web.WebPages.xml
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\System.Web.WebPages.Deployment.xml
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\System.Web.WebPages.Razor.xml
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\Antlr3.Runtime.pdb
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\Newtonsoft.Json.xml
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\Microsoft.ApplicationInsights.xml
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\Microsoft.AI.DependencyCollector.xml
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\Microsoft.AI.WindowsServer.xml
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\Microsoft.AI.Web.xml
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\DataAccessLayer.pdb
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\bin\DataAccessLayer.dll.config
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\obj\Debug\Trainer Profile Projection.csprojResolveAssemblyReference.cache
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\obj\Debug\Trainer Profile Projection.dll
+D:\Shared\MVC\Trainer Profile Projection\Trainer Profile Projection\obj\Debug\Trainer Profile Projection.pdb

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TrainerProfileProjectionModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="tblTrainerDetail">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="VendorId" Type="Int32" />
+    <Property Name="TrainerId" Type="Int32" />
+    <Property Name="TrainerName" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="Experience" Type="Int32" />
+    <Property Name="Location" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="StartDate" Type="DateTime" Precision="7" />
+    <Property Name="EndDate" Type="DateTime" Precision="7" />
+  </EntityType>
+  <EntityContainer Name="TrainerProfileProjectionEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="tblTrainerDetails" EntityType="Self.tblTrainerDetail" />
+    <FunctionImport Name="USP_GetTrainerAvailability" ReturnType="Collection(TrainerProfileProjectionModel.USP_GetTrainerAvailability_Result)">
+      <Parameter Name="TrainerId" Mode="In" Type="Int32" />
+      <Parameter Name="StartDate" Mode="In" Type="DateTime" />
+      <Parameter Name="EndDate" Mode="In" Type="DateTime" />
+    </FunctionImport>
+    <FunctionImport Name="USP_ProjectTrainerProfile">
+      <Parameter Name="VendorId" Mode="In" Type="Int32" />
+      <Parameter Name="TrainerId" Mode="In" Type="Int32" />
+      <Parameter Name="StartDate" Mode="In" Type="DateTime" />
+      <Parameter Name="EndDate" Mode="In" Type="DateTime" />
+    </FunctionImport>
+  </EntityContainer>
+  <ComplexType Name="USP_GetTrainerAvailability_Result">
+    <Property Type="Int32" Name="VendorId" Nullable="true" />
+    <Property Type="Int32" Name="TrainerId" Nullable="true" />
+    <Property Type="String" Name="TrainerName" Nullable="true" MaxLength="100" />
+    <Property Type="Int32" Name="Experience" Nullable="true" />
+    <Property Type="String" Name="Location" Nullable="true" MaxLength="50" />
+  </ComplexType>
+</Schema>

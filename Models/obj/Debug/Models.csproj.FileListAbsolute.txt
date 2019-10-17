@@ -1,0 +1,28 @@
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Models\bin\Debug\Models.dll.config
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Models\bin\Debug\Models.dll
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Models\bin\Debug\Models.pdb
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Models\bin\Debug\EntityFramework.dll
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Models\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Models\bin\Debug\EntityFramework.xml
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Models\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Models\obj\Debug\Models.dll
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\Models\obj\Debug\Models.pdb
+C:\Users\M1047734\documents\visual studio 2017\Projects\Trainer Profile Projection\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+D:\Assignments\Trainer Profile Projection\Models\bin\Debug\Models.dll.config
+D:\Assignments\Trainer Profile Projection\Models\bin\Debug\Models.dll
+D:\Assignments\Trainer Profile Projection\Models\bin\Debug\Models.pdb
+D:\Assignments\Trainer Profile Projection\Models\bin\Debug\EntityFramework.dll
+D:\Assignments\Trainer Profile Projection\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Assignments\Trainer Profile Projection\Models\bin\Debug\EntityFramework.xml
+D:\Assignments\Trainer Profile Projection\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Assignments\Trainer Profile Projection\Models\obj\Debug\Models.dll
+D:\Assignments\Trainer Profile Projection\Models\obj\Debug\Models.pdb
+D:\Shared\MVC\Trainer Profile Projection\Models\bin\Debug\Models.dll.config
+D:\Shared\MVC\Trainer Profile Projection\Models\bin\Debug\Models.dll
+D:\Shared\MVC\Trainer Profile Projection\Models\bin\Debug\Models.pdb
+D:\Shared\MVC\Trainer Profile Projection\Models\bin\Debug\EntityFramework.dll
+D:\Shared\MVC\Trainer Profile Projection\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\Shared\MVC\Trainer Profile Projection\Models\bin\Debug\EntityFramework.xml
+D:\Shared\MVC\Trainer Profile Projection\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\Shared\MVC\Trainer Profile Projection\Models\obj\Debug\Models.dll
+D:\Shared\MVC\Trainer Profile Projection\Models\obj\Debug\Models.pdb

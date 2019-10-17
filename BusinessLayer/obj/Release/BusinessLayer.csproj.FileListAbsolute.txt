@@ -1,0 +1,1 @@
+D:\Shared\MVC\Trainer Profile Projection\BusinessLayer\obj\Release\BusinessLayer.csprojResolveAssemblyReference.cache

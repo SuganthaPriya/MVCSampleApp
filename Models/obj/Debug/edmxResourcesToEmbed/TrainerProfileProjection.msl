@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TrainerProfileProjectionModelStoreContainer" CdmEntityContainer="TrainerProfileProjectionEntities1">
+    <EntitySetMapping Name="tblTrainerDetails">
+      <EntityTypeMapping TypeName="TrainerProfileProjectionModel.tblTrainerDetail">
+        <MappingFragment StoreEntitySet="tblTrainerDetails">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="VendorId" ColumnName="VendorId" />
+          <ScalarProperty Name="TrainerId" ColumnName="TrainerId" />
+          <ScalarProperty Name="TrainerName" ColumnName="TrainerName" />
+          <ScalarProperty Name="Experience" ColumnName="Experience" />
+          <ScalarProperty Name="Location" ColumnName="Location" />
+          <ScalarProperty Name="StartDate" ColumnName="StartDate" />
+          <ScalarProperty Name="EndDate" ColumnName="EndDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="USP_GetTrainerAvailability" FunctionName="TrainerProfileProjectionModel.Store.USP_GetTrainerAvailability">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="TrainerProfileProjectionModel.USP_GetTrainerAvailability_Result">
+          <ScalarProperty Name="VendorId" ColumnName="VendorId" />
+          <ScalarProperty Name="TrainerId" ColumnName="TrainerId" />
+          <ScalarProperty Name="TrainerName" ColumnName="TrainerName" />
+          <ScalarProperty Name="Experience" ColumnName="Experience" />
+          <ScalarProperty Name="Location" ColumnName="Location" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="USP_ProjectTrainerProfile" FunctionName="TrainerProfileProjectionModel.Store.USP_ProjectTrainerProfile" />
+  </EntityContainerMapping>
+</Mapping>

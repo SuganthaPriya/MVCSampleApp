@@ -1,0 +1,39 @@
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\BusinessLayer\bin\Debug\BusinessLayer.dll
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\BusinessLayer\bin\Debug\BusinessLayer.pdb
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\BusinessLayer\bin\Debug\DataAccessLayer.dll
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\BusinessLayer\bin\Debug\Models.dll
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\BusinessLayer\bin\Debug\EntityFramework.dll
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\BusinessLayer\bin\Debug\DataAccessLayer.dll.config
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\BusinessLayer\bin\Debug\Models.pdb
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\BusinessLayer\bin\Debug\Models.dll.config
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\BusinessLayer\bin\Debug\EntityFramework.xml
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\BusinessLayer\obj\Debug\BusinessLayer.dll
+c:\Users\M1047734\Documents\Visual Studio 2017\Projects\Trainer Profile Projection\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\Assignments\Trainer Profile Projection\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Assignments\Trainer Profile Projection\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Assignments\Trainer Profile Projection\BusinessLayer\bin\Debug\DataAccessLayer.dll
+D:\Assignments\Trainer Profile Projection\BusinessLayer\bin\Debug\Models.dll
+D:\Assignments\Trainer Profile Projection\BusinessLayer\bin\Debug\EntityFramework.dll
+D:\Assignments\Trainer Profile Projection\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Assignments\Trainer Profile Projection\BusinessLayer\bin\Debug\DataAccessLayer.dll.config
+D:\Assignments\Trainer Profile Projection\BusinessLayer\bin\Debug\Models.pdb
+D:\Assignments\Trainer Profile Projection\BusinessLayer\bin\Debug\Models.dll.config
+D:\Assignments\Trainer Profile Projection\BusinessLayer\bin\Debug\EntityFramework.xml
+D:\Assignments\Trainer Profile Projection\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+D:\Assignments\Trainer Profile Projection\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Assignments\Trainer Profile Projection\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\Shared\MVC\Trainer Profile Projection\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Shared\MVC\Trainer Profile Projection\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Shared\MVC\Trainer Profile Projection\BusinessLayer\bin\Debug\DataAccessLayer.dll
+D:\Shared\MVC\Trainer Profile Projection\BusinessLayer\bin\Debug\Models.dll
+D:\Shared\MVC\Trainer Profile Projection\BusinessLayer\bin\Debug\EntityFramework.dll
+D:\Shared\MVC\Trainer Profile Projection\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Shared\MVC\Trainer Profile Projection\BusinessLayer\bin\Debug\DataAccessLayer.dll.config
+D:\Shared\MVC\Trainer Profile Projection\BusinessLayer\bin\Debug\Models.pdb
+D:\Shared\MVC\Trainer Profile Projection\BusinessLayer\bin\Debug\Models.dll.config
+D:\Shared\MVC\Trainer Profile Projection\BusinessLayer\bin\Debug\EntityFramework.xml
+D:\Shared\MVC\Trainer Profile Projection\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+D:\Shared\MVC\Trainer Profile Projection\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Shared\MVC\Trainer Profile Projection\BusinessLayer\obj\Debug\BusinessLayer.pdb

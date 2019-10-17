@@ -1,0 +1,10 @@
+D:\Shared\MVC\Trainer Profile Projection\Models\bin\Release\Models.dll.config
+D:\Shared\MVC\Trainer Profile Projection\Models\bin\Release\Models.dll
+D:\Shared\MVC\Trainer Profile Projection\Models\bin\Release\Models.pdb
+D:\Shared\MVC\Trainer Profile Projection\Models\bin\Release\EntityFramework.dll
+D:\Shared\MVC\Trainer Profile Projection\Models\bin\Release\EntityFramework.SqlServer.dll
+D:\Shared\MVC\Trainer Profile Projection\Models\bin\Release\EntityFramework.xml
+D:\Shared\MVC\Trainer Profile Projection\Models\bin\Release\EntityFramework.SqlServer.xml
+D:\Shared\MVC\Trainer Profile Projection\Models\obj\Release\Models.csprojResolveAssemblyReference.cache
+D:\Shared\MVC\Trainer Profile Projection\Models\obj\Release\Models.dll
+D:\Shared\MVC\Trainer Profile Projection\Models\obj\Release\Models.pdb
